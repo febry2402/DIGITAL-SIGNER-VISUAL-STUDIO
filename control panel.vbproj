@@ -1,0 +1,364 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D347DA80-709F-40D0-8D2A-91E2182AC840}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>control_panel.My.MyApplication</StartupObject>
+    <RootNamespace>control_panel</RootNamespace>
+    <AssemblyName>control panel</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>control panel.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>control panel.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>32x32.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Guna.UI">
+      <HintPath>..\..\..\..\..\Desktop\Guna_UI_Framework_Ultimate_v2.0.0.1\Guna_UI_Framework_Ultimate_v2.0.0.1\Guna_UI_Framework_Ultimate_v2.0.0.1\Guna.UI-Framework-Lib-master\Guna.UI WinForms\.net 4.0\Guna.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI2">
+      <HintPath>..\..\..\..\..\Desktop\Guna_UI_Framework_Ultimate_v2.0.0.1\Guna_UI_Framework_Ultimate_v2.0.0.1\Guna_UI_Framework_Ultimate_v2.0.0.1\Guna.UI-Framework-Lib-master\Guna.UI2 WinForms\.net 4.0\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Drawing.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="AxWMPLib" />
+    <Import Include="control_panel" />
+    <Import Include="control_panel.My" />
+    <Import Include="control_panel.My.Resources" />
+    <Import Include="Guna" />
+    <Import Include="Guna.UI" />
+    <Import Include="Guna.UI.Animation" />
+    <Import Include="Guna.UI.Animation.Material" />
+    <Import Include="Guna.UI.Lib" />
+    <Import Include="Guna.UI.Lib.ScrollBar" />
+    <Import Include="Guna.UI.Licensing" />
+    <Import Include="Guna.UI.WinForms" />
+    <Import Include="Guna.UI2" />
+    <Import Include="Guna.UI2.AnimatorNS" />
+    <Import Include="Guna.UI2.HtmlRenderer" />
+    <Import Include="Guna.UI2.HtmlRenderer.Adapters" />
+    <Import Include="Guna.UI2.HtmlRenderer.Adapters.Entities" />
+    <Import Include="Guna.UI2.HtmlRenderer.Core" />
+    <Import Include="Guna.UI2.HtmlRenderer.Core.Entities" />
+    <Import Include="Guna.UI2.HtmlRenderer.Core.Handlers" />
+    <Import Include="Guna.UI2.HtmlRenderer.Core.Utils" />
+    <Import Include="Guna.UI2.HtmlRenderer.WinForms" />
+    <Import Include="Guna.UI2.HtmlRenderer.WinForms.Adapters" />
+    <Import Include="Guna.UI2.Licensing" />
+    <Import Include="Guna.UI2.Material" />
+    <Import Include="Guna.UI2.Material.Animation" />
+    <Import Include="Guna.UI2.Native" />
+    <Import Include="Guna.UI2.WinForms" />
+    <Import Include="Guna.UI2.WinForms.Enums" />
+    <Import Include="Guna.UI2.WinForms.Helpers" />
+    <Import Include="Guna.UI2.WinForms.Interfaces" />
+    <Import Include="Guna.UI2.WinForms.Internal" />
+    <Import Include="Guna.UI2.WinForms.Suite" />
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Drawing.Design" />
+    <Import Include="System.Drawing.Drawing2D" />
+    <Import Include="System.Drawing.Imaging" />
+    <Import Include="System.Drawing.Printing" />
+    <Import Include="System.Drawing.Text" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="aktivasi.Designer.vb">
+      <DependentUpon>aktivasi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="aktivasi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_login.Designer.vb">
+      <DependentUpon>form_login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="form_login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kurs.Designer.vb">
+      <DependentUpon>kurs.vb</DependentUpon>
+    </Compile>
+    <Compile Include="kurs.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="modul.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="playlist.Designer.vb">
+      <DependentUpon>playlist.vb</DependentUpon>
+    </Compile>
+    <Compile Include="playlist.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="profil.Designer.vb">
+      <DependentUpon>profil.vb</DependentUpon>
+    </Compile>
+    <Compile Include="profil.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Signage Viewer.Designer.vb">
+      <DependentUpon>Signage Viewer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Signage Viewer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sukubunga.Designer.vb">
+      <DependentUpon>sukubunga.vb</DependentUpon>
+    </Compile>
+    <Compile Include="sukubunga.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tester.Designer.vb">
+      <DependentUpon>tester.vb</DependentUpon>
+    </Compile>
+    <Compile Include="tester.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="textrunning.Designer.vb">
+      <DependentUpon>textrunning.vb</DependentUpon>
+    </Compile>
+    <Compile Include="textrunning.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="aktivasi.resx">
+      <DependentUpon>aktivasi.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_login.resx">
+      <DependentUpon>form_login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kurs.resx">
+      <DependentUpon>kurs.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="playlist.resx">
+      <DependentUpon>playlist.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="profil.resx">
+      <DependentUpon>profil.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Signage Viewer.resx">
+      <DependentUpon>Signage Viewer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sukubunga.resx">
+      <DependentUpon>sukubunga.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tester.resx">
+      <DependentUpon>tester.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="textrunning.resx">
+      <DependentUpon>textrunning.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\search.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\logo bri.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\logo-bri-_140506111143-877.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\8370.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\money %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\image\playlist.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\image\text.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\image\corporation.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\image\admin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\image\tv-monitor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\5431981.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\image\discount.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\image\floppy-disk.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\image\eraser.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Minimal Bright abstract marketing company logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="32x32.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

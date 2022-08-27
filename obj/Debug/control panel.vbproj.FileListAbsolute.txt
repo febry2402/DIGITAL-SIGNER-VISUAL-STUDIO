@@ -1,0 +1,152 @@
+C:\Users\IT-Fatmawati\Desktop\control panel\control panel\bin\Debug\control panel.exe.config
+C:\Users\IT-Fatmawati\Desktop\control panel\control panel\obj\Debug\Interop.WMPLib.dll
+C:\Users\IT-Fatmawati\Desktop\control panel\control panel\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\IT-Fatmawati\Desktop\control panel\control panel\obj\Debug\control panel.vbproj.ResolveComReference.cache
+C:\Users\IT-Fatmawati\Desktop\control panel\control panel\obj\Debug\control panel.exe
+C:\Users\IT-Fatmawati\Desktop\control panel\control panel\obj\Debug\control panel.xml
+C:\Users\IT-Fatmawati\Desktop\control panel\control panel\obj\Debug\control panel.pdb
+C:\Users\IT-Fatmawati\Desktop\control panel\control panel\bin\Debug\control panel.exe
+C:\Users\IT-Fatmawati\Desktop\control panel\control panel\bin\Debug\control panel.pdb
+C:\Users\IT-Fatmawati\Desktop\control panel\control panel\bin\Debug\control panel.xml
+C:\Users\IT-Fatmawati\Desktop\control panel\control panel\bin\Debug\Interop.WMPLib.dll
+C:\Users\IT-Fatmawati\Desktop\control panel\control panel\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\IT-Fatmawati\Desktop\control panel\control panel\obj\Debug\control panel.vbprojResolveAssemblyReference.cache
+C:\Users\IT-Fatmawati\Desktop\control panel\control panel\obj\Debug\control_panel.Form1.resources
+C:\Users\IT-Fatmawati\Desktop\control panel\control panel\obj\Debug\control_panel.kurs.resources
+C:\Users\IT-Fatmawati\Desktop\control panel\control panel\obj\Debug\control_panel.Resources.resources
+C:\Users\IT-Fatmawati\Desktop\control panel\control panel\obj\Debug\control_panel.playlist.resources
+C:\Users\IT-Fatmawati\Desktop\control panel\control panel\obj\Debug\control_panel.profil.resources
+C:\Users\IT-Fatmawati\Desktop\control panel\control panel\obj\Debug\control_panel.Signage_Viewer.resources
+C:\Users\IT-Fatmawati\Desktop\control panel\control panel\obj\Debug\control_panel.sukubunga.resources
+C:\Users\IT-Fatmawati\Desktop\control panel\control panel\obj\Debug\control_panel.tester.resources
+C:\Users\IT-Fatmawati\Desktop\control panel\control panel\obj\Debug\control_panel.textrunning.resources
+C:\Users\IT-Fatmawati\Desktop\control panel\control panel\obj\Debug\control panel.vbproj.GenerateResource.Cache
+C:\Users\IT-Fatmawati\Desktop\control panel\control panel\obj\Debug\control_panel.form_login.resources
+C:\Users\FebryBramantyo\Desktop\control panel\control panel\bin\Debug\control panel.exe.config
+C:\Users\FebryBramantyo\Desktop\control panel\control panel\obj\Debug\Interop.WMPLib.dll
+C:\Users\FebryBramantyo\Desktop\control panel\control panel\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\FebryBramantyo\Desktop\control panel\control panel\obj\Debug\control panel.vbproj.ResolveComReference.cache
+C:\Users\FebryBramantyo\Desktop\control panel\control panel\obj\Debug\control panel.exe
+C:\Users\FebryBramantyo\Desktop\control panel\control panel\obj\Debug\control panel.xml
+C:\Users\FebryBramantyo\Desktop\control panel\control panel\obj\Debug\control panel.pdb
+C:\Users\FebryBramantyo\Desktop\control panel\control panel\bin\Debug\control panel.exe
+C:\Users\FebryBramantyo\Desktop\control panel\control panel\bin\Debug\control panel.pdb
+C:\Users\FebryBramantyo\Desktop\control panel\control panel\bin\Debug\control panel.xml
+C:\Users\FebryBramantyo\Desktop\control panel\control panel\bin\Debug\Interop.WMPLib.dll
+C:\Users\FebryBramantyo\Desktop\control panel\control panel\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\FebryBramantyo\Desktop\control panel\control panel\obj\Debug\control panel.vbprojResolveAssemblyReference.cache
+C:\Users\FebryBramantyo\Desktop\control panel\control panel\obj\Debug\control_panel.aktivasi.resources
+C:\Users\FebryBramantyo\Desktop\control panel\control panel\obj\Debug\control_panel.Form1.resources
+C:\Users\FebryBramantyo\Desktop\control panel\control panel\obj\Debug\control_panel.form_login.resources
+C:\Users\FebryBramantyo\Desktop\control panel\control panel\obj\Debug\control_panel.kurs.resources
+C:\Users\FebryBramantyo\Desktop\control panel\control panel\obj\Debug\control_panel.Resources.resources
+C:\Users\FebryBramantyo\Desktop\control panel\control panel\obj\Debug\control_panel.playlist.resources
+C:\Users\FebryBramantyo\Desktop\control panel\control panel\obj\Debug\control_panel.profil.resources
+C:\Users\FebryBramantyo\Desktop\control panel\control panel\obj\Debug\control_panel.Signage_Viewer.resources
+C:\Users\FebryBramantyo\Desktop\control panel\control panel\obj\Debug\control_panel.sukubunga.resources
+C:\Users\FebryBramantyo\Desktop\control panel\control panel\obj\Debug\control_panel.tester.resources
+C:\Users\FebryBramantyo\Desktop\control panel\control panel\obj\Debug\control_panel.textrunning.resources
+C:\Users\FebryBramantyo\Desktop\control panel\control panel\obj\Debug\control panel.vbproj.GenerateResource.Cache
+C:\Users\IT-Fatmawati\Desktop\control panel\control panel\control panel\bin\Debug\control panel.exe.config
+C:\Users\IT-Fatmawati\Desktop\control panel\control panel\control panel\obj\Debug\Interop.WMPLib.dll
+C:\Users\IT-Fatmawati\Desktop\control panel\control panel\control panel\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\IT-Fatmawati\Desktop\control panel\control panel\control panel\obj\Debug\control panel.vbproj.ResolveComReference.cache
+C:\Users\IT-Fatmawati\Desktop\control panel\control panel\control panel\obj\Debug\control panel.exe
+C:\Users\IT-Fatmawati\Desktop\control panel\control panel\control panel\obj\Debug\control panel.xml
+C:\Users\IT-Fatmawati\Desktop\control panel\control panel\control panel\obj\Debug\control panel.pdb
+C:\Users\IT-Fatmawati\Desktop\control panel\control panel\control panel\bin\Debug\control panel.exe
+C:\Users\IT-Fatmawati\Desktop\control panel\control panel\control panel\bin\Debug\control panel.pdb
+C:\Users\IT-Fatmawati\Desktop\control panel\control panel\control panel\bin\Debug\control panel.xml
+C:\Users\IT-Fatmawati\Desktop\control panel\control panel\control panel\bin\Debug\Interop.WMPLib.dll
+C:\Users\IT-Fatmawati\Desktop\control panel\control panel\control panel\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\IT-Fatmawati\Desktop\control panel\control panel\control panel\obj\Debug\control_panel.aktivasi.resources
+C:\Users\IT-Fatmawati\Desktop\control panel\control panel\control panel\obj\Debug\control_panel.Form1.resources
+C:\Users\IT-Fatmawati\Desktop\control panel\control panel\control panel\obj\Debug\control_panel.form_login.resources
+C:\Users\IT-Fatmawati\Desktop\control panel\control panel\control panel\obj\Debug\control_panel.kurs.resources
+C:\Users\IT-Fatmawati\Desktop\control panel\control panel\control panel\obj\Debug\control_panel.Resources.resources
+C:\Users\IT-Fatmawati\Desktop\control panel\control panel\control panel\obj\Debug\control_panel.playlist.resources
+C:\Users\IT-Fatmawati\Desktop\control panel\control panel\control panel\obj\Debug\control_panel.profil.resources
+C:\Users\IT-Fatmawati\Desktop\control panel\control panel\control panel\obj\Debug\control_panel.Signage_Viewer.resources
+C:\Users\IT-Fatmawati\Desktop\control panel\control panel\control panel\obj\Debug\control_panel.sukubunga.resources
+C:\Users\IT-Fatmawati\Desktop\control panel\control panel\control panel\obj\Debug\control_panel.tester.resources
+C:\Users\IT-Fatmawati\Desktop\control panel\control panel\control panel\obj\Debug\control_panel.textrunning.resources
+C:\Users\IT-Fatmawati\Desktop\control panel\control panel\control panel\obj\Debug\control panel.vbproj.GenerateResource.Cache
+C:\Users\IT-Fatmawati\Desktop\control panel\control panel\control panel\obj\Debug\control panel.vbprojResolveAssemblyReference.cache
+C:\Users\FebryBramantyo\Downloads\control panel\control panel\control panel\control panel\bin\Debug\control panel.exe.config
+C:\Users\FebryBramantyo\Downloads\control panel\control panel\control panel\control panel\obj\Debug\Interop.WMPLib.dll
+C:\Users\FebryBramantyo\Downloads\control panel\control panel\control panel\control panel\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\FebryBramantyo\Downloads\control panel\control panel\control panel\control panel\obj\Debug\control panel.vbproj.ResolveComReference.cache
+C:\Users\FebryBramantyo\Downloads\control panel\control panel\control panel\control panel\obj\Debug\control panel.exe
+C:\Users\FebryBramantyo\Downloads\control panel\control panel\control panel\control panel\obj\Debug\control panel.xml
+C:\Users\FebryBramantyo\Downloads\control panel\control panel\control panel\control panel\obj\Debug\control panel.pdb
+C:\Users\FebryBramantyo\Downloads\control panel\control panel\control panel\control panel\bin\Debug\control panel.exe
+C:\Users\FebryBramantyo\Downloads\control panel\control panel\control panel\control panel\bin\Debug\Guna.UI.dll
+C:\Users\FebryBramantyo\Downloads\control panel\control panel\control panel\control panel\bin\Debug\Guna.UI2.dll
+C:\Users\FebryBramantyo\Downloads\control panel\control panel\control panel\control panel\obj\Debug\control panel.vbprojResolveAssemblyReference.cache
+C:\Users\FebryBramantyo\Downloads\control panel\control panel\control panel\control panel\obj\Debug\control_panel.aktivasi.resources
+C:\Users\FebryBramantyo\Downloads\control panel\control panel\control panel\control panel\obj\Debug\control_panel.Form1.resources
+C:\Users\FebryBramantyo\Downloads\control panel\control panel\control panel\control panel\obj\Debug\control_panel.form_login.resources
+C:\Users\FebryBramantyo\Downloads\control panel\control panel\control panel\control panel\obj\Debug\control_panel.kurs.resources
+C:\Users\FebryBramantyo\Downloads\control panel\control panel\control panel\control panel\obj\Debug\control_panel.Resources.resources
+C:\Users\FebryBramantyo\Downloads\control panel\control panel\control panel\control panel\obj\Debug\control_panel.playlist.resources
+C:\Users\FebryBramantyo\Downloads\control panel\control panel\control panel\control panel\obj\Debug\control_panel.profil.resources
+C:\Users\FebryBramantyo\Downloads\control panel\control panel\control panel\control panel\obj\Debug\control_panel.Signage_Viewer.resources
+C:\Users\FebryBramantyo\Downloads\control panel\control panel\control panel\control panel\obj\Debug\control_panel.sukubunga.resources
+C:\Users\FebryBramantyo\Downloads\control panel\control panel\control panel\control panel\obj\Debug\control_panel.tester.resources
+C:\Users\FebryBramantyo\Downloads\control panel\control panel\control panel\control panel\obj\Debug\control_panel.textrunning.resources
+C:\Users\FebryBramantyo\Downloads\control panel\control panel\control panel\control panel\obj\Debug\control panel.vbproj.GenerateResource.Cache
+C:\Users\FebryBramantyo\documents\visual studio 2013\Projects\Control Panel\control panel\bin\Debug\control panel.exe.config
+C:\Users\FebryBramantyo\documents\visual studio 2013\Projects\Control Panel\control panel\bin\Debug\control panel.exe
+C:\Users\FebryBramantyo\documents\visual studio 2013\Projects\Control Panel\control panel\bin\Debug\control panel.pdb
+C:\Users\FebryBramantyo\documents\visual studio 2013\Projects\Control Panel\control panel\bin\Debug\control panel.xml
+C:\Users\FebryBramantyo\documents\visual studio 2013\Projects\Control Panel\control panel\bin\Debug\Guna.UI.dll
+C:\Users\FebryBramantyo\documents\visual studio 2013\Projects\Control Panel\control panel\bin\Debug\Guna.UI2.dll
+C:\Users\FebryBramantyo\documents\visual studio 2013\Projects\Control Panel\control panel\bin\Debug\Interop.WMPLib.dll
+C:\Users\FebryBramantyo\documents\visual studio 2013\Projects\Control Panel\control panel\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\FebryBramantyo\documents\visual studio 2013\Projects\Control Panel\control panel\obj\Debug\Interop.WMPLib.dll
+C:\Users\FebryBramantyo\documents\visual studio 2013\Projects\Control Panel\control panel\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\FebryBramantyo\documents\visual studio 2013\Projects\Control Panel\control panel\obj\Debug\control panel.vbproj.ResolveComReference.cache
+C:\Users\FebryBramantyo\documents\visual studio 2013\Projects\Control Panel\control panel\obj\Debug\control_panel.aktivasi.resources
+C:\Users\FebryBramantyo\documents\visual studio 2013\Projects\Control Panel\control panel\obj\Debug\control_panel.Form1.resources
+C:\Users\FebryBramantyo\documents\visual studio 2013\Projects\Control Panel\control panel\obj\Debug\control_panel.form_login.resources
+C:\Users\FebryBramantyo\documents\visual studio 2013\Projects\Control Panel\control panel\obj\Debug\control_panel.kurs.resources
+C:\Users\FebryBramantyo\documents\visual studio 2013\Projects\Control Panel\control panel\obj\Debug\control_panel.Resources.resources
+C:\Users\FebryBramantyo\documents\visual studio 2013\Projects\Control Panel\control panel\obj\Debug\control_panel.playlist.resources
+C:\Users\FebryBramantyo\documents\visual studio 2013\Projects\Control Panel\control panel\obj\Debug\control_panel.profil.resources
+C:\Users\FebryBramantyo\documents\visual studio 2013\Projects\Control Panel\control panel\obj\Debug\control_panel.Signage_Viewer.resources
+C:\Users\FebryBramantyo\documents\visual studio 2013\Projects\Control Panel\control panel\obj\Debug\control_panel.sukubunga.resources
+C:\Users\FebryBramantyo\documents\visual studio 2013\Projects\Control Panel\control panel\obj\Debug\control_panel.tester.resources
+C:\Users\FebryBramantyo\documents\visual studio 2013\Projects\Control Panel\control panel\obj\Debug\control_panel.textrunning.resources
+C:\Users\FebryBramantyo\documents\visual studio 2013\Projects\Control Panel\control panel\obj\Debug\control panel.vbproj.GenerateResource.Cache
+C:\Users\FebryBramantyo\documents\visual studio 2013\Projects\Control Panel\control panel\obj\Debug\control panel.exe
+C:\Users\FebryBramantyo\documents\visual studio 2013\Projects\Control Panel\control panel\obj\Debug\control panel.xml
+C:\Users\FebryBramantyo\documents\visual studio 2013\Projects\Control Panel\control panel\obj\Debug\control panel.pdb
+C:\Users\FebryBramantyo\Desktop\control panel 31 10 2021\control panel\bin\Debug\control panel.exe.config
+C:\Users\FebryBramantyo\Desktop\control panel 31 10 2021\control panel\obj\Debug\Interop.WMPLib.dll
+C:\Users\FebryBramantyo\Desktop\control panel 31 10 2021\control panel\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\FebryBramantyo\Desktop\control panel 31 10 2021\control panel\obj\Debug\control panel.vbproj.ResolveComReference.cache
+C:\Users\FebryBramantyo\Desktop\control panel 31 10 2021\control panel\obj\Debug\control panel.exe
+C:\Users\FebryBramantyo\Desktop\control panel 31 10 2021\control panel\obj\Debug\control panel.xml
+C:\Users\FebryBramantyo\Desktop\control panel 31 10 2021\control panel\obj\Debug\control panel.pdb
+C:\Users\FebryBramantyo\Desktop\control panel 31 10 2021\control panel\bin\Debug\control panel.exe
+C:\Users\FebryBramantyo\Desktop\control panel 31 10 2021\control panel\bin\Debug\control panel.pdb
+C:\Users\FebryBramantyo\Desktop\control panel 31 10 2021\control panel\bin\Debug\control panel.xml
+C:\Users\FebryBramantyo\Desktop\control panel 31 10 2021\control panel\bin\Debug\Interop.WMPLib.dll
+C:\Users\FebryBramantyo\Desktop\control panel 31 10 2021\control panel\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\FebryBramantyo\Desktop\control panel 31 10 2021\control panel\obj\Debug\control panel.vbprojResolveAssemblyReference.cache
+C:\Users\FebryBramantyo\Desktop\control panel 31 10 2021\control panel\obj\Debug\control_panel.aktivasi.resources
+C:\Users\FebryBramantyo\Desktop\control panel 31 10 2021\control panel\obj\Debug\control_panel.Form1.resources
+C:\Users\FebryBramantyo\Desktop\control panel 31 10 2021\control panel\obj\Debug\control_panel.form_login.resources
+C:\Users\FebryBramantyo\Desktop\control panel 31 10 2021\control panel\obj\Debug\control_panel.kurs.resources
+C:\Users\FebryBramantyo\Desktop\control panel 31 10 2021\control panel\obj\Debug\control_panel.Resources.resources
+C:\Users\FebryBramantyo\Desktop\control panel 31 10 2021\control panel\obj\Debug\control_panel.playlist.resources
+C:\Users\FebryBramantyo\Desktop\control panel 31 10 2021\control panel\obj\Debug\control_panel.profil.resources
+C:\Users\FebryBramantyo\Desktop\control panel 31 10 2021\control panel\obj\Debug\control_panel.Signage_Viewer.resources
+C:\Users\FebryBramantyo\Desktop\control panel 31 10 2021\control panel\obj\Debug\control_panel.sukubunga.resources
+C:\Users\FebryBramantyo\Desktop\control panel 31 10 2021\control panel\obj\Debug\control_panel.tester.resources
+C:\Users\FebryBramantyo\Desktop\control panel 31 10 2021\control panel\obj\Debug\control_panel.textrunning.resources
+C:\Users\FebryBramantyo\Desktop\control panel 31 10 2021\control panel\obj\Debug\control panel.vbproj.GenerateResource.Cache
+C:\Users\FebryBramantyo\Desktop\control panel 31 10 2021\DIGITAL SIGNER\obj\Debug\control panel.vbprojResolveAssemblyReference.cache
+C:\Users\FebryBramantyo\Desktop\control panel 31 10 2021\DIGITAL SIGNER\obj\Debug\control panel.exe
+C:\Users\FebryBramantyo\Desktop\control panel 31 10 2021\DIGITAL SIGNER\obj\Debug\control panel.xml
+C:\Users\FebryBramantyo\Desktop\control panel 31 10 2021\DIGITAL SIGNER\obj\Debug\control panel.pdb

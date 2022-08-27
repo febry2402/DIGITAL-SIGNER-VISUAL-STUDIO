@@ -1,0 +1,16 @@
+C:\Users\IT-Fatmawati\Desktop\control panel\control panel\control panel\bin\Release\control panel.exe.config
+C:\Users\IT-Fatmawati\Desktop\control panel\control panel\control panel\obj\Release\Interop.WMPLib.dll
+C:\Users\IT-Fatmawati\Desktop\control panel\control panel\control panel\obj\Release\AxInterop.WMPLib.dll
+C:\Users\IT-Fatmawati\Desktop\control panel\control panel\control panel\obj\Release\control panel.vbproj.ResolveComReference.cache
+C:\Users\IT-Fatmawati\Desktop\control panel\control panel\control panel\obj\Release\control_panel.aktivasi.resources
+C:\Users\IT-Fatmawati\Desktop\control panel\control panel\control panel\obj\Release\control_panel.Form1.resources
+C:\Users\IT-Fatmawati\Desktop\control panel\control panel\control panel\obj\Release\control_panel.form_login.resources
+C:\Users\IT-Fatmawati\Desktop\control panel\control panel\control panel\obj\Release\control_panel.kurs.resources
+C:\Users\IT-Fatmawati\Desktop\control panel\control panel\control panel\obj\Release\control_panel.Resources.resources
+C:\Users\IT-Fatmawati\Desktop\control panel\control panel\control panel\obj\Release\control_panel.playlist.resources
+C:\Users\IT-Fatmawati\Desktop\control panel\control panel\control panel\obj\Release\control_panel.profil.resources
+C:\Users\IT-Fatmawati\Desktop\control panel\control panel\control panel\obj\Release\control_panel.Signage_Viewer.resources
+C:\Users\IT-Fatmawati\Desktop\control panel\control panel\control panel\obj\Release\control_panel.sukubunga.resources
+C:\Users\IT-Fatmawati\Desktop\control panel\control panel\control panel\obj\Release\control_panel.tester.resources
+C:\Users\IT-Fatmawati\Desktop\control panel\control panel\control panel\obj\Release\control_panel.textrunning.resources
+C:\Users\IT-Fatmawati\Desktop\control panel\control panel\control panel\obj\Release\control panel.vbproj.GenerateResource.Cache
